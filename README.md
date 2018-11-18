@@ -1,6 +1,6 @@
 # Sources for Atari and Related
 
-This repository shall hold my sources for Atari and related computers, i.e. 68k code running inside a real machine or in an emulator:
+This repository is holding my sources for Atari and related computers, i.e. 68k code running inside a real machine or in an emulator:
 
 * TOS
 * KAOS (my improved TOS variant with more than 80 bugs removed)
@@ -34,13 +34,13 @@ Tools:
 
 and various libraries, development demo code and test code
 
-# Unfinished
+# Complete, without NVDI Sources
 
-Upload is not yet complete, no MagiC kernel sources, yet.
+Upload complete, but NVDI sources (copyright by Sven und Wilfried Behne) are missing. However, object files are present, so that the project could be built.
 
 # License
 
-Np license, yet.
+The files are licensed according to GPLv3, see LICENSE file.
 
 # External Licenses
 
