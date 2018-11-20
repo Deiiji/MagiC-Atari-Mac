@@ -1,5 +1,5 @@
 Andreas Kromke
-2018-05-27
+2018-11-20
 
 All VDI related files are written by Sven and Wilfried Behne, except some patches, see below.
 Note that VDI for MagiC is often called MVDI, contrary to NVDI.
@@ -27,6 +27,9 @@ DRIVERS/OSD.TXT
 
 	MagicMac needs all drivers from OSD/ and all from MIN/ATAR
 
+SRC/
+	Sources for both MVDI and the loadable drivers.
+	Note that these are untouched, i.e. not converted to UTF-8, but still in Atari text coding.
 
 Important notes:
 
