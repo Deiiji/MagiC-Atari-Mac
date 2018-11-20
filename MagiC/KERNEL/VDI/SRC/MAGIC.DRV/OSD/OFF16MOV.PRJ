@@ -1,0 +1,8 @@
+C:\GEMSYS\OFF16MOV.OSD
+;d:\OFF16MOV.NOD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF16MOV.S

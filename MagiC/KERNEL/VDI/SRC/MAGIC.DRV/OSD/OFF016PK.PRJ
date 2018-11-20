@@ -1,0 +1,10 @@
+C:\GEMSYS\OFF016PK.OSD
+;d:\OFF016PK.NOD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF016PK.S
+
+

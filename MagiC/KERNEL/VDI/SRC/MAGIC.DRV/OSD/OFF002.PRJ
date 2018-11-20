@@ -1,0 +1,9 @@
+C:\GEMSYS\OFF002.OSD
+;d:\OFF002.NOD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF002.S
+

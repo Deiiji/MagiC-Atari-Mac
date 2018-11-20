@@ -1,0 +1,10 @@
+C:\GEMSYS\MFA16.SYS
+
+.S [-D=DUMMY=0]
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MFA16.S
+

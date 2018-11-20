@@ -1,0 +1,10 @@
+C:\GEMSYS\OFF016IP.OSD
+;d:\OFF016IP.NOD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF016IP.S
+
+

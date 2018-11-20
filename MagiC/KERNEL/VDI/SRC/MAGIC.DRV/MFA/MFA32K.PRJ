@@ -1,0 +1,10 @@
+C:\GEMSYS\MFA32K.SYS
+
+.S [-D=DUMMY=0]
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MFA32K.S
+

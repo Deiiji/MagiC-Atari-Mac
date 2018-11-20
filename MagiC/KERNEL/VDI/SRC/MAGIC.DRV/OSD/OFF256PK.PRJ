@@ -1,0 +1,8 @@
+C:\GEMSYS\OFF256PK.OSD
+;d:\OFF256PK.OSD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF256PK.S

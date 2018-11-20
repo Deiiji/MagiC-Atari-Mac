@@ -1,0 +1,10 @@
+C:\GEMSYS\MFA4.SYS
+
+.S [-D=DUMMY=0]
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MFA4.S
+

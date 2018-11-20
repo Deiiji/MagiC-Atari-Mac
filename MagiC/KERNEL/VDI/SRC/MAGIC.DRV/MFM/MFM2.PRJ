@@ -1,0 +1,11 @@
+C:\GEMSYS\MFM2.SYS
+;d:\MFM2.SYS
+
+.S [-D=DUMMY=0]
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MFM2.S
+

@@ -1,0 +1,8 @@
+C:\GEMSYS\OFF32KFL.OSD
+;d:\OFF32KFL.NOD
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+OFF32KFL.S

@@ -1,0 +1,21 @@
+MAGICVDI.PRG
+
+.C [-B -P]			;Absolute Adressierung zwischen Modulen benutzen, DRI-Objektformat erzeugen
+
+.S [-B]				;DRI Objektformat erzeugen
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MXVDIKNL.S
+SETUP.C
+DRIVERS.C
+FILEDIV.C
+INIT_RES.C
+TOS.S
+STRING.S
+MATH.S
+SIMULATN.S
+
+

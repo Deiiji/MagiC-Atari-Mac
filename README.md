@@ -34,9 +34,9 @@ Tools:
 
 and various libraries, development demo code and test code
 
-# Complete, without NVDI Sources
+# Complete, including MVDI Sources
 
-Upload complete, but NVDI sources (copyright by Sven und Wilfried Behne) are missing. However, object files are present, so that the project could be built.
+Upload complete as of 2018-11-20
 
 # License
 
@@ -44,4 +44,4 @@ The files are licensed according to GPLv3, see LICENSE file.
 
 # External Licenses
 
-No external licenses, yet.
+MVDI and sources have been provided by courtesy of Sven und Wilfried Behne and distributed under the main license.

@@ -1,5 +1,5 @@
 Andreas Kromke
-2018-05-27
+2018-11-20
 
 
 AES/
@@ -28,6 +28,7 @@ INC/
 
 VDI/
 	VDI object files and drivers. Authors: Sven and Wilfried Behne.
+	Also sources for VDI kernel and drivers.
 
 WINFRAME/
 	windows frames, written as SLB (shared library), to be moved to XTENSION folder

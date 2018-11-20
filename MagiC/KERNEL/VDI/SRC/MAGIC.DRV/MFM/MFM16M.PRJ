@@ -1,0 +1,11 @@
+C:\GEMSYS\MFM16M.SYS
+;d:\MFM16M.SYS
+
+.S [-D=DUMMY=0]
+
+.L [-S=0]			;Stacksize 0
+
+=
+
+MFM16M.S
+
